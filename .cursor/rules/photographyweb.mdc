@@ -1,0 +1,17 @@
+---
+description:
+  This is a photography portfolio website.
+  Use React with functional components and TypeScript.
+  Use Tailwind CSS for all styling and layout.
+  Design with a clean, minimal aesthetic that highlights images.
+  Components should be small and reusable.
+  Avoid inline styles and prefer utility classes.
+  All images must include meaningful alt text for accessibility.
+  Use responsive layout principles (mobile-first).
+  Use semantic HTML elements like <section>, <figure>, and <main>.
+  Keep all logic and data-fetching in hooks or utils, not inside components directly.
+  Don't use "any" type; prefer explicit typing and interfaces.
+  Use absolute imports from the src/ folder.
+globs:
+alwaysApply: false
+---
