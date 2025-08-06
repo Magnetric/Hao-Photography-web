@@ -1,0 +1,33 @@
+# Admin panel with AWS credentials - keep private
+admin/
+
+# AWS credential files
+*.csv
+*accessKeys*
+AWS*Key*
+New*Text*Document*
+
+# Environment and config files
+config.js
+.env
+.env.local
+
+# Backup files
+*-backup.js
+*-old-backup.js
+
+# Test files (not needed for production)
+test-*.html
+verify-*.js
+debug-*.html
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+
+# Node modules (if added later)
+node_modules/
